@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/jsp=UTF-8
+encoding//WebContent/WEB-INF/jsp/restrito/util/sidebar.jsp=UTF-8
+encoding//WebContent/plugins/datatables/jquery.dataTables.min.js=UTF-8
+encoding//assets/js/jquery.dataTables.min.js=UTF-8
+encoding//src/io/neurolaw/adm/nf/i18n/messages_en_US.properties=UTF-8
+encoding//src/io/neurolaw/adm/nf/i18n/messages_pt_BR.properties=UTF-8
+encoding/<project>=UTF-8
